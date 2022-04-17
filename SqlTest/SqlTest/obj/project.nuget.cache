@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fghWDXbLt6LZ603JvASX7p8XkNHDx9BkkU4y2K4i7anlIcUnhponVsDx5HV5o75z+z9aQCt4VwH6ntmKdABCPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafee\\OneDrive\\Desktop\\Projects\\C#_Projects\\SqlTest\\SqlTest\\SqlTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafee\\.nuget\\packages\\microsoft.data.sqlite\\6.0.4\\microsoft.data.sqlite.6.0.4.nupkg.sha512",
+    "C:\\Users\\rafee\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.4\\microsoft.data.sqlite.core.6.0.4.nupkg.sha512",
+    "C:\\Users\\rafee\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\rafee\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\rafee\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\rafee\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\rafee\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
